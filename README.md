@@ -7,13 +7,13 @@ This is a project from the Cyfrin Solidity Course.
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
 - [Usage](#usage)
+  - [Deploy](#deploy)
   - [Testing](#testing)
 - [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
   - [Scripts](#scripts)
     - [Withdraw](#withdraw)
   - [Estimate gas](#estimate-gas)
 - [Formatting](#formatting)
-- [Thank you!](#thank-you)
 
 
 # Getting Started
